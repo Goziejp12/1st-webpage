@@ -1,4 +1,4 @@
-.st {
+.start-page {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -8,7 +8,7 @@
     background-size: cover;
     height: 650px;
 }
-#h1 {
+#main-title {
     background-color: red;
     border-radius: 6px;
     padding: 10px;
@@ -16,7 +16,7 @@
     color: aliceblue;
     font-size: 35px;
 }
-#h2 {
+#subtitle {
     background-color: red;
     border-radius: 6px;
     padding: 10px;
@@ -30,13 +30,13 @@
     text-shadow: 0 0 5px black;
     font-family: 'Ultra', serif;
 }
-#awk {
+#img-act {
     width: 300px;
     margin: 30px auto 20px;
     border-radius: 50%;
     border: 5px solid gold;
 }
-.awk {
+.activity-lists {
     display: flex;
     justify-content: space-around;
     background-image: linear-gradient(#BEBAE3, #E2D4BA);
@@ -55,7 +55,7 @@
     border-radius: 5px;
     margin: 10px;
 }
-#h22 {
+#guide-page {
     color: #BEBAE3;
     text-shadow: 0 0 3px black;
 }
