@@ -44,9 +44,11 @@
 }
 .footer {
     background-color: #653239;
-    border-radius: 10px;
     display: flex;
-    margin: 50px 500px;
+    margin: 25px auto;
+    height: 300px;
+    width: 400px;
+    border-radius: 10px;
     border-bottom: 8px solid #E2D4BA;
 }
 #img-guide {
