@@ -45,6 +45,9 @@
 .items {
     text-align: center;
 }
+h2 {
+    text-shadow: 0 0 3px #653239;
+}
 .footer {
     background-color: #653239;
     display: flex;
@@ -60,7 +63,7 @@
     border-radius: 5px;
     margin: 10px;
 }
-#guide-page {
+h3, h4 {
     color: #BEBAE3;
     text-shadow: 0 0 3px black;
 }
